@@ -1,12 +1,21 @@
 # 💫 About Me:
-💻 Full Stack Developer from Pakistan<br>
-🔭 Currently working on Laravel & PHP based web applications<br>
-🌱 Learning React.js, Vue.js, API Integrations & Modern UI/UX<br>
-👨‍💻 Building Admin Panels, Management Systems, Custom Portals & Responsive Websites<br>
-⚡ Skilled in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, PHP, Laravel & MySQL<br>
-💬 Ask me about Laravel, PHP, JavaScript, Frontend Development & Responsive Design<br>
-🚀 Passionate about creating clean, scalable & user-friendly web applications<br>
-☕ Fun fact: I turn coffee into clean, functional & responsive code 💻
+💻 Full Stack Developer from Pakistan
+
+Passionate about building modern, scalable, and user-friendly web applications with clean and efficient code. I enjoy turning ideas into real-world digital solutions and continuously improving my development skills by exploring new technologies and frameworks.
+
+🔭 Currently working on Laravel & PHP based web applications, including Admin Panels, Management Systems, Custom Portals, and Dynamic Websites
+
+🌱 Currently learning and improving skills in React.js, Vue.js, API Integrations, and Modern UI/UX Design to create more interactive and high-performance applications
+
+👨‍💻 Experienced in developing responsive websites, custom dashboards, business portals, and frontend interfaces using HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, PHP, Laravel, and MySQL
+
+⚡ Skilled in both Frontend & Backend Development with a strong focus on performance, responsiveness, clean architecture, and user experience
+
+💬 Ask me about Laravel, PHP, JavaScript, Frontend Development, Responsive Design, Database Management, and Web Application Development
+
+🚀 Always excited to learn new technologies, solve complex problems, and work on creative development projects
+
+☕ Fun fact: I turn coffee into clean, functional, and responsive code 💻
 
 
 
