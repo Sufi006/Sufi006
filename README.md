@@ -3,19 +3,20 @@
 
 Passionate about building modern, scalable, and user-friendly web applications with clean and efficient code. I enjoy turning ideas into real-world digital solutions and continuously improving my development skills by exploring new technologies and frameworks.
 
-🔭 Currently working on Laravel & PHP based web applications, including Admin Panels, Management Systems, Custom Portals, and Dynamic Websites
+🔭 Currently working on Laravel & PHP based web applications, including Admin Panels, Management Systems & Custom Portals
 
-🌱 Currently learning and improving skills in React.js, Vue.js, API Integrations, and Modern UI/UX Design to create more interactive and high-performance applications
+🌱 Learning React.js, Vue.js, API Integrations & Modern UI/UX Design to build more interactive applications
 
-👨‍💻 Experienced in developing responsive websites, custom dashboards, business portals, and frontend interfaces using HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, PHP, Laravel, and MySQL
+👨‍💻 Experienced in developing responsive websites, dashboards, and frontend interfaces using HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, PHP, Laravel & MySQL
 
-⚡ Skilled in both Frontend & Backend Development with a strong focus on performance, responsiveness, clean architecture, and user experience
+⚡ Skilled in both Frontend & Backend Development with focus on performance, responsiveness & clean architecture
 
-💬 Ask me about Laravel, PHP, JavaScript, Frontend Development, Responsive Design, Database Management, and Web Application Development
+💬 Ask me about Laravel, PHP, JavaScript, Frontend Development & Responsive Design
 
-🚀 Always excited to learn new technologies, solve complex problems, and work on creative development projects
+🚀 Always excited to learn new technologies and work on creative development projects
 
-☕ Fun fact: I turn coffee into clean, functional, and responsive code 💻
+☕ Fun fact: I turn coffee into clean, functional & responsive code 💻
+
 
 
 
