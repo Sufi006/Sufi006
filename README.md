@@ -78,11 +78,11 @@ Passionate about building modern, scalable, and user-friendly web applications w
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Sufi006\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Sufi006\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sufi006\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ![](https://streak-stats.demolab.com/?user=Sufi006\&theme=dark\&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sufi006\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 
